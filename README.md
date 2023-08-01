@@ -66,10 +66,11 @@ I'm a programmer passionate about new technologies and scientific research. I lo
  - CV: http://lattes.cnpq.br/1037316083380689 
 
 #### Formal Education
- - 2023 - Current: PhD student in Computer Science. Universidade Federal de Mato Grosso do Sul, UFMS, Campo Grande, Brazil.
- - 2021 - 2022: Master's in Computer Science. Universidade Federal de Mato Grosso do Sul, UFMS, Campo Grande, Brazil.
- - 2021: Post-graduate studies in Artificial Intelligence. Serra Geral College, FSG. Campo Grande, Brazil.
- - 2016 - 2020	Undergraduation in Computer Science.  Universidade Federal de Mato Grosso do Sul, UFMS, Campo Grande, Brazil.
+ - 2023 - Current: PhD student in Computer Science. [Universidade Federal de Mato Grosso do Sul, UFMS](https://www.ufms.br/). Campo Grande, MS, Brazil.
+ - 2021 - 2022: Master's in Computer Science. [Universidade Federal de Mato Grosso do Sul, UFMS](https://www.ufms.br/). Campo Grande, MS, Brazil.
+ - 2021: Post-graduate studies in Artificial Intelligence. [Faculdade Serra Geral, FSG](https://www.faculdadeserrageralead.com.br). Campo Grande, MS, Brazil.
+ - 2016 - 2020	Undergraduation in Computer Science.  [Universidade Federal de Mato Grosso do Sul, UFMS](https://www.ufms.br/). Campo Grande, MS, Brazil.
+ - 2013 - 2016 Technical Course in Informatics. [Instituto Federal Maranhão, IFMA](https://buriticupu.ifma.edu.br/). Buriticupu, MA, Brazil.
 
 Thank you for visiting my profile! 🚀
 
