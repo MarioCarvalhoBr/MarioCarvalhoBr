@@ -62,7 +62,7 @@ I'm a programmer passionate about new technologies and scientific research. I lo
 
 ### Academic information
 #### Research
- - Publications: https://www.scopus.com/authid/detail.uri?authorId=57433695000 
+ - Publications: https://www.researchgate.net/profile/Mario-Carvalho-11
  - CV: http://lattes.cnpq.br/1037316083380689 
 
 #### Formal Education
