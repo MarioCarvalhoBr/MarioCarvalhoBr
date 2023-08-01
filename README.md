@@ -60,6 +60,16 @@ I'm a programmer passionate about new technologies and scientific research. I lo
 - 📧 Email: mariodearaujocarvalho@gmail.com
 - 💼 LinkedIn: [mariodearaujocarvalho](https://www.linkedin.com/in/mariodearaujocarvalho/)
 
+### Academic information
+#### Research
+ - Publications: https://www.scopus.com/authid/detail.uri?authorId=57433695000 
+ - CV: http://lattes.cnpq.br/1037316083380689 
+
+#### Formal Education
+ - 2023 - Current: PhD student in Computer Science. Universidade Federal de Mato Grosso do Sul, UFMS, Campo Grande, Brazil.
+ - 2021 - 2022: Master's in Computer Science. Universidade Federal de Mato Grosso do Sul, UFMS, Campo Grande, Brazil.
+ - 2021: Post-graduate studies in Artificial Intelligence. Serra Geral College, FSG. Campo Grande, Brazil.
+ - 2016 - 2020	Undergraduation in Computer Science.  Universidade Federal de Mato Grosso do Sul, UFMS, Campo Grande, Brazil.
 
 Thank you for visiting my profile! 🚀
 
