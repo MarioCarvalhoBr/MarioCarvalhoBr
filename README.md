@@ -21,7 +21,7 @@ I'm a programmer passionate about new technologies and scientific research. I lo
 ![Numpy](https://img.shields.io/badge/-Numpy-blue?style=flat-square&logo=numpy)
 ![SKLearn](https://img.shields.io/badge/-SKLearn-blue?style=flat-square&logo=scikit-learn)
 
-#### Programming Languages:
+#### Programming Languages and Frameworks:
 ![Python](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python)
 ![C/C++](https://img.shields.io/badge/-C/C++-blue?style=flat-square&logo=c%2B%2B)
 ![Java](https://img.shields.io/badge/-Java-blue?style=flat-square&logo=java)
@@ -32,10 +32,11 @@ I'm a programmer passionate about new technologies and scientific research. I lo
 ![Kotlin](https://img.shields.io/badge/-Kotlin-orange?style=flat-square&logo=kotlin)
 ![Android](https://img.shields.io/badge/-Android-green?style=flat-square&logo=android)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-green?style=flat-square&logo=vue.js)
+![Vuetify](https://img.shields.io/badge/vuetify-white?style=flat-square&logo=vuetify&logoColor=blue&color=lightblue)
 ![HTML/CSS](https://img.shields.io/badge/-HTML/CSS-orange?style=flat-square&logo=html5)
 
 #### Databases:
-![MySQL](https://img.shields.io/badge/-MySQL-blue?style=flat-square&logo=mysql)
+![MySQL](https://img.shields.io/badge/mysql-orange?style=flat-square&logo=mysql&logoColor=white&labelColor=blue)
 ![MariaDB](https://img.shields.io/badge/-MariaDB-blue?style=flat-square&logo=mariadb)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-blue?style=flat-square&logo=postgresql)
 ![SQLite](https://img.shields.io/badge/-SQLite-blue?style=flat-square&logo=sqlite)
@@ -50,10 +51,10 @@ I'm a programmer passionate about new technologies and scientific research. I lo
 ![GitLab](https://img.shields.io/badge/-GitLab-orange?style=flat-square&logo=gitlab)
 ![GitKraken](https://img.shields.io/badge/-GitKraken-black?style=flat-square&logo=gitkraken)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-blue?style=flat-square&logo=visual-studio-code)
-![Kanban](https://img.shields.io/badge/-Kanban-blue?style=flat-square&logo=kanban)
-![SCRUM](https://img.shields.io/badge/-SCRUM-blue?style=flat-square&logo=scrum)
 ![Docker](https://img.shields.io/badge/-Docker-blue?style=flat-square&logo=docker)
 ![Jira](https://img.shields.io/badge/-Jira-blue?style=flat-square&logo=jira-software)
+![Kanban](https://img.shields.io/badge/-Kanban-blue?style=flat-square&logo=kanban)
+![SCRUM](https://img.shields.io/badge/-SCRUM-blue?style=flat-square&logo=scrum)
 
 ### Contact me:
 
@@ -72,7 +73,7 @@ I'm a programmer passionate about new technologies and scientific research. I lo
  - 2016 - 2020: Undergraduate in Computer Science.  [Universidade Federal de Mato Grosso do Sul, UFMS](https://www.ufms.br/). Campo Grande, MS, Brazil.
  - 2013 - 2016: Technical Course in Informatics. [Instituto Federal Maranhão, IFMA](https://buriticupu.ifma.edu.br/). Buriticupu, MA, Brazil.
 
-Thank you for visiting my profile! 🚀
+Ok back to work now 🙂!
 
 
 <!--
