@@ -55,7 +55,7 @@ I'm a programmer passionate about new technologies and scientific research. I lo
 ![Docker](https://img.shields.io/badge/-Docker-blue?style=flat-square&logo=docker)
 ![Jira](https://img.shields.io/badge/-Jira-blue?style=flat-square&logo=jira-software)
 
-### Get in touch:
+### Contact me:
 
 - 📧 Email: mariodearaujocarvalho@gmail.com
 - 💼 LinkedIn: [mariodearaujocarvalho](https://www.linkedin.com/in/mariodearaujocarvalho/)
@@ -69,7 +69,7 @@ I'm a programmer passionate about new technologies and scientific research. I lo
  - 2023 - Current: PhD student in Computer Science. [Universidade Federal de Mato Grosso do Sul, UFMS](https://www.ufms.br/). Campo Grande, MS, Brazil.
  - 2021 - 2022: Master's in Computer Science. [Universidade Federal de Mato Grosso do Sul, UFMS](https://www.ufms.br/). Campo Grande, MS, Brazil.
  - 2021: Post-graduate studies in Artificial Intelligence. [Faculdade Serra Geral, FSG](https://www.faculdadeserrageralead.com.br). Campo Grande, MS, Brazil.
- - 2016 - 2020: Undergraduation in Computer Science.  [Universidade Federal de Mato Grosso do Sul, UFMS](https://www.ufms.br/). Campo Grande, MS, Brazil.
+ - 2016 - 2020: Undergraduate in Computer Science.  [Universidade Federal de Mato Grosso do Sul, UFMS](https://www.ufms.br/). Campo Grande, MS, Brazil.
  - 2013 - 2016: Technical Course in Informatics. [Instituto Federal Maranhão, IFMA](https://buriticupu.ifma.edu.br/). Buriticupu, MA, Brazil.
 
 Thank you for visiting my profile! 🚀
