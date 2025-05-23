@@ -62,10 +62,11 @@ I'm a programmer passionate about new technologies and scientific research. I lo
 - 💼 LinkedIn: [mariodearaujocarvalho](https://www.linkedin.com/in/mariodearaujocarvalho/)
 
 ### Academic information
-#### Research
- - Publications: https://www.researchgate.net/profile/Mario-Carvalho-11
- - CV: http://lattes.cnpq.br/1037316083380689 
-
+#### Research 
+ - ResearchGate Profile: https://www.researchgate.net/profile/Mario-Carvalho-11
+ - ORCID Profiles: https://orcid.org/0000-0002-8097-6729
+ - CV: http://lattes.cnpq.br/1037316083380689
+   
 #### Formal Education
  - 2023 - Current: PhD student in Computer Science. [Universidade Federal de Mato Grosso do Sul, UFMS](https://www.ufms.br/). Campo Grande, MS, Brazil.
  - 2021 - 2022: Master's in Computer Science. [Universidade Federal de Mato Grosso do Sul, UFMS](https://www.ufms.br/). Campo Grande, MS, Brazil.
