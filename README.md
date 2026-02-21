@@ -8,7 +8,7 @@ I'm a programmer passionate about new technologies and scientific research. I lo
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarioCarvalhoBr&layout=compact&langs_count=7&theme=synthwave"/>
 </div>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=MarioCarvalhoBr)](https://github.com/MarioCarvalhoBr/MarioCarvalhoBr)
+[![trophy](https://github-profile-trophy-tawny.vercel.app/?username=MarioCarvalhoBr&theme=light)](https://github.com/MarioCarvalhoBr/MarioCarvalhoBr)
 
 ### Technologies I use:
 
