@@ -2,7 +2,7 @@ name: Update README cards
 
 on:
   schedule:
-    - cron: "0 0 * * *" # Roda uma vez por dia à meia-noite
+    - cron: "0 0 * * *"
   workflow_dispatch:
 
 jobs:
@@ -12,15 +12,17 @@ jobs:
       contents: write
 
     steps:
-      - uses: actions/checkout@v4 # Atualizado para a versão v4 mais estável
+      - uses: actions/checkout@v4
 
       - name: Generate stats card
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: stats
-          options: username=${{ github.repository_owner }}&show_icons=true&theme=synthwave&include_all_commits=true
+          # Add count_private=true to include private contributions in the stats
+          options: username=${{ github.repository_owner }}&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true
           path: profile/stats.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          # Update the token to use your new PAT instead of the default GITHUB
+          token: ${{ secrets.PAT }}
 
       - name: Generate top languages card
         uses: readme-tools/github-readme-stats-action@v1
@@ -28,7 +30,8 @@ jobs:
           card: top-langs
           options: username=${{ github.repository_owner }}&layout=compact&langs_count=7&theme=synthwave
           path: profile/top-langs.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          # Update the token to use your new PAT instead of the default GITHUB
+          token: ${{ secrets.PAT }}
 
       - name: Generate pin card
         uses: readme-tools/github-readme-stats-action@v1
