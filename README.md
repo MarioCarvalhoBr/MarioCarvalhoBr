@@ -3,20 +3,9 @@
 I'm a programmer passionate about new technologies and scientific research. I love working with artificial neural networks, deep learning, geoprocessing, computer vision, digital image processing, programming languages, and mobile app development. 
 ### GitHub Statistics:
 
-
-[![](https://awesome-github-stats.azurewebsites.net/user-stats/MarioCarvalhoBr?cardType=level&theme=github-dark&fontFamily=&preferLogin=false)](https://git.io/awesome-stats-card)
-
-
-
 <div align="left">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=MarioCarvalhoBr&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarioCarvalhoBr&layout=compact&langs_count=7&theme=synthwave"/>
-</div>
-
-<div align="left">
-  <img height="150em" src="./profile/stats.svg" alt="Mário's GitHub Stats" />
+  <img height="150em" src="./profile/stats.svg" alt="Mário de Araújo Carvalho's GitHub Stats" />
   <img height="150em" src="./profile/top-langs.svg" alt="Top Languages" />
-  <img height="150em" src="./profile/pin.svg" alt="Pinned Repo" />
 </div>
 
 
@@ -40,6 +29,7 @@ I'm a programmer passionate about new technologies and scientific research. I lo
 ![C/C++](https://img.shields.io/badge/-C/C++-blue?style=flat-square&logo=c%2B%2B)
 ![Java](https://img.shields.io/badge/-Java-blue?style=flat-square&logo=java)
 ![PHP](https://img.shields.io/badge/-PHP-blue?style=flat-square&logo=php)
+![Laravel](https://img.shields.io/badge/-Laravel-red?style=flat-square&logo=laravel)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-blue?style=flat-square&logo=javascript)
 ![Node.js](https://img.shields.io/badge/-Node.js-green?style=flat-square&logo=node.js)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-blue?style=flat-square&logo=typescript)
