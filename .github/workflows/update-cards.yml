@@ -42,6 +42,14 @@ jobs:
           path: profile/pin.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
+      # --- NOVO STEP: Geração dos Troféus ---
+      - name: Generate github profile trophy
+        uses: soulteary/github-profile-trophy-action@v1.0.0
+        with:
+          options: username=${{ github.repository_owner }}&theme=light
+          path: profile/trophy.svg
+          token: ${{ secrets.PAT }}
+
       - name: Commit cards
         run: |
           git config user.name "github-actions[bot]"

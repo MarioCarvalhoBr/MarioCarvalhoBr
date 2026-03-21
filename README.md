@@ -8,6 +8,14 @@ I'm a programmer passionate about new technologies and scientific research. I lo
   <img height="150em" src="./profile/top-langs.svg" alt="Top Languages" />
 </div>
 
+<br>
+
+<div align="left">
+  <a href="https://github.com/MarioCarvalhoBr/MarioCarvalhoBr">
+    <img src="./profile/trophy.svg" alt="GitHub Trophies" />
+  </a>
+</div>
+
 
 [![trophy](https://github-profile-trophy-tawny.vercel.app/?username=MarioCarvalhoBr&theme=light)](https://github.com/MarioCarvalhoBr/MarioCarvalhoBr)
 
