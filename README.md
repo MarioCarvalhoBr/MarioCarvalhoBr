@@ -7,12 +7,18 @@ I'm a programmer passionate about new technologies and scientific research. I lo
 [![](https://awesome-github-stats.azurewebsites.net/user-stats/MarioCarvalhoBr?cardType=level&theme=github-dark&fontFamily=&preferLogin=false)](https://git.io/awesome-stats-card)
 
 
-<!--
+
 <div align="left">
-  <!--img height="150em" src="https://github-readme-stats.vercel.app/api?username=MarioCarvalhoBr&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=MarioCarvalhoBr&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarioCarvalhoBr&layout=compact&langs_count=7&theme=synthwave"/>
 </div>
--->
+
+<div align="left">
+  <img height="150em" src="./profile/stats.svg" alt="Mário's GitHub Stats" />
+  <img height="150em" src="./profile/top-langs.svg" alt="Top Languages" />
+  <img height="150em" src="./profile/pin.svg" alt="Pinned Repo" />
+</div>
+
 
 [![trophy](https://github-profile-trophy-tawny.vercel.app/?username=MarioCarvalhoBr&theme=light)](https://github.com/MarioCarvalhoBr/MarioCarvalhoBr)
 
