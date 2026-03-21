@@ -8,6 +8,10 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+    
+    env:
+      FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+      
     permissions:
       contents: write
 
@@ -18,10 +22,8 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: stats
-          # Add count_private=true to include private contributions in the stats
           options: username=${{ github.repository_owner }}&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true
           path: profile/stats.svg
-          # Update the token to use your new PAT instead of the default GITHUB
           token: ${{ secrets.PAT }}
 
       - name: Generate top languages card
@@ -30,7 +32,6 @@ jobs:
           card: top-langs
           options: username=${{ github.repository_owner }}&layout=compact&langs_count=7&theme=synthwave
           path: profile/top-langs.svg
-          # Update the token to use your new PAT instead of the default GITHUB
           token: ${{ secrets.PAT }}
 
       - name: Generate pin card
